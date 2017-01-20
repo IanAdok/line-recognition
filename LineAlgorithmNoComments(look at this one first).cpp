@@ -21,8 +21,8 @@ The task was:
 			and your function algorithm should take in a "vector of points"
 			
 			One of the things that is important in such a task is that you get a nested loop situation
-			that makes like 1 million turns in the deepest level. This means the things you want to focus in the 
-			to optimize in the whole code is inside that and understand that
+			that makes like 1 million turns in the deepest level.
+			This means the things you want to focus in the whole code is to optimize inside that and understand that
 			things like a slower hash, memory etc. function can cost alot when it's done alot of times.			
 */
 
