@@ -23,7 +23,7 @@ The task was:
 			One of the things that is important in such a task is that you get a nested loop situation
 			that makes like a million turns in the deepest level.
 			This means the things you want to focus in the whole code is to optimize inside that and understand that
-			things like a slower hash, memory etc. function can cost alot when it's done alot of times.			
+			the effectiveness of your hash and memory structure and techniques has a big impact.
 */
 
 using namespace std;
