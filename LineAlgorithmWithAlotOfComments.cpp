@@ -10,18 +10,6 @@
 #include <chrono>
 
 
-/*
-This was my code that got fastest time in a internal competition on an algorithm in a course.
-The task was:
-			You get a list of points.
-			With the points you should find all the straight lines
-			that can be created by using atleast 3 points or more in a row.
-
-			This had to be done by the given files:  Point.h, Point.c  and your function algorithm should take in a "vector of points"
-
-
-*/
-
 using namespace std;
 
 void algorithm(std::vector<Point> &thePoints);
