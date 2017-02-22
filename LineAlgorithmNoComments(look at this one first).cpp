@@ -24,7 +24,6 @@ The task was:
 			that makes like a million turns in the deepest level.
 			This means the things you want to focus in the whole code is to optimize inside that and understand that
 			the effectiveness of your hash and memory structure and techniques has a big impact.
-			(Never underestimate the rate things can scale!)
 */
 
 using namespace std;
